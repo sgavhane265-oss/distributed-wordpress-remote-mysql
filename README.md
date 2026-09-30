@@ -81,8 +81,6 @@ The practical implementation included:
 
 The complete internship report contains the implementation steps and the screenshots captured during the practical.
 
-**[Open the complete internship documentation](documentation/Distributed-WordPress-Remote-MySQL-Final-Internship-Documentation.docx)**
-
 ## Evidence
 
 The `screenshots/` directory contains the complete evidence set:
