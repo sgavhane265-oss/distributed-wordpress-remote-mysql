@@ -1,0 +1,10 @@
+Project: Distributed WordPress Deployment with Remote MariaDB
+Author: Shubham Gavhane
+Environment: Oracle VirtualBox
+Ubuntu IP: 172.22.62.219
+OpenSUSE IP: 172.22.62.225
+Database: MariaDB
+Database: wordpress
+Database User: wpuser
+Database Port: 3306
+Evidence Screenshots: 54

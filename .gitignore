@@ -1,0 +1,26 @@
+# WordPress secrets
+wp-config.php
+.env
+*.key
+*.pem
+
+# VirtualBox
+*.vdi
+*.vmdk
+*.vhd
+*.vhdx
+*.ova
+*.ovf
+*.iso
+Snapshots/
+*.sav
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs/temp
+*.log
+*.tmp
